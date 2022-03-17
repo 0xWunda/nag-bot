@@ -1,0 +1,8 @@
+requests
+bs4
+os
+discord
+discord.ext
+datetime
+re
+discord_slash
